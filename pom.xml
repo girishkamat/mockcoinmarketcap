@@ -23,7 +23,7 @@
             <version>2.0.3</version>
             <configuration>
                <processTypes>
-                  <web>java $JAVA_OPTS -cp target/classes:target/dependency/* com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --port 8080 --verbose --local-response-templating</web>
+                  <web>java -cp target/classes:target/dependency/* com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --port 8080 --verbose --local-response-templating --root-dir .</web>
                </processTypes>
             </configuration>
          </plugin>
