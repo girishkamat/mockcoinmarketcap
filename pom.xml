@@ -1,40 +1,12 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>com.quikr.crypto</groupId>
-    <artifactId>mockcoinmarketcap</artifactId>
-    <version>1.0.0</version>
-    <packaging>pom</packaging>
-
-    <name>mockcoinmarketcap</name>
-    <description>Mock Coin Market Cap Service</description>
-
-    <build>
-     <plugins>
-        <plugin>
-            <groupId>org.codehaus.mojo</groupId>
-            <artifactId>exec-maven-plugin</artifactId>
-            <version>1.5.0</version>
-            <executions>
-        <execution>
-    <phase>install</phase>
-    <goals>
-      <goal>java</goal>
-    </goals>
-    <configuration>
-              <includePluginDependencies>true</includePluginDependencies>
-<executableDependency>
-           <groupId>com.github.tomakehurst</groupId>
-            <artifactId>wiremock-standalone</artifactId>
-          </executableDependency>
-      <mainClass>com.github.tomakehurst.wiremock.standalone.WireMockServerRunner</mainClass>
-      
-    </configuration>
-  </execution>
-    </executions>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>com.quikr.crypto</groupId>
+   <artifactId>mockcoinmarketcap</artifactId>
+   <version>1.0.0</version>
+   <packaging>pom</packaging>
+   <name>mockcoinmarketcap</name>
+   <description>Mock Coin Market Cap Service</description>
     <dependencies>
             <dependency>
             <groupId>com.github.tomakehurst</groupId>
@@ -43,8 +15,18 @@
             <type>jar</type>
         </dependency>
         </dependencies>
-        </plugin>
-        </plugins>
-    </build>
-
+   <build>
+      <plugins>
+         <plugin>
+            <groupId>com.heroku.sdk</groupId>
+            <artifactId>heroku-maven-plugin</artifactId>
+            <version>2.0.3</version>
+            <configuration>
+               <processTypes>
+                  <web>java $JAVA_OPTS -cp target/classes:target/dependency/* com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --port 8080 --verbose --local-response-templating</web>
+               </processTypes>
+            </configuration>
+         </plugin>
+      </plugins>
+   </build>
 </project>
