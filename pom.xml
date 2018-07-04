@@ -22,6 +22,10 @@
             <artifactId>heroku-maven-plugin</artifactId>
             <version>2.0.3</version>
             <configuration>
+               <includes>
+                    <include>__files</include>
+                    <include>mappings</include>
+               </includes>
                <processTypes>
                   <web>java -cp target/classes:target/dependency/* com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --port $PORT --verbose --local-response-templating --root-dir .</web>
                </processTypes>
