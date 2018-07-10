@@ -1,0 +1,1474 @@
+[
+  {
+    "hotness": 70867.21596693498,
+    "activityHotness": 0.11397619423751587,
+    "primaryCategory": "Analysis",
+    "words": 491,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dbc",
+        "name": "Cardano",
+        "slug": "cardano",
+        "tradingSymbol": "ada"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45dc5",
+        "name": "EOS",
+        "slug": "eos",
+        "tradingSymbol": "eos"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45db4",
+        "name": "IOTA",
+        "slug": "iota",
+        "tradingSymbol": "miota"
+      },
+      {
+        "_id": "5a1aafdbda3d21115462eead",
+        "name": "ERC20",
+        "slug": "erc20",
+        "tradingSymbol": "erc20"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45f2b",
+        "name": "Altcoin",
+        "slug": "altcoin-alt",
+        "tradingSymbol": "alt"
+      }
+    ],
+    "_id": "5b3d19622bc7da000fa01373",
+    "description": "Amongst the coins in the market today on the top ten table, EOS (EOS), Cardano (ADA), and IOTA (IOTA) seem to be the top gainers in the last 24hrs according to Coinranking.",
+    "publishedAt": "2018-07-04T18:36:43.000Z",
+    "title": "EOS, Bitcoin [BTC], IOTA Displaying Beautiful Performance In The Market Today",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d19622bc7da000fa01373?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d19622bc7da000fa01373?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://static.coingape.com/wp-content/uploads/2018/07/05001310/price-analysis.jpg"
+  },
+  {
+    "hotness": 70870.95774579154,
+    "activityHotness": 0.11570037488096648,
+    "primaryCategory": "General",
+    "words": 587,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3d13862bc7da000fa00988",
+    "description": "The government in Iran has gagged bitcoin exchanges across the country, claim bitcoin users and alternate coin community of the Islamic state.",
+    "publishedAt": "2018-07-04T18:31:51.000Z",
+    "title": "Iranian Government Gags Crypto Exchanges To Fight 127% Inflation And New US Sanctions",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d13862bc7da000fa00988?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d13862bc7da000fa00988?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2018/07/Iranian-Government-Gags-Crypto-Exchanges-To-Fight-127-Inflation-And-New-US-Sanctions.png"
+  },
+  {
+    "hotness": 70867.20125697249,
+    "activityHotness": 0.12070141693843262,
+    "primaryCategory": "Analysis",
+    "words": 426,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dc5",
+        "name": "EOS",
+        "slug": "eos",
+        "tradingSymbol": "eos"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3d13742bc7da000fa00923",
+    "description": "Prices for RAM on the EOS network skyrocketed this week, reaching as high as almost 920 EOS (around $8,160 to press time) per 1MB of RAM.",
+    "publishedAt": "2018-07-04T18:29:00.000Z",
+    "title": "EOS RAM Prices Skyrocket Amid Network Speculation",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d13742bc7da000fa00923?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d13742bc7da000fa00923?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://images.cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hYzM1ZTU4NWUzYTk2NmJjMDE2M2M1NWFjMzkyZjU4Zi5qcGc=.jpg"
+  },
+  {
+    "hotness": 70867.12619768464,
+    "activityHotness": 0.10953101798043251,
+    "primaryCategory": "Analysis",
+    "words": 470,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dbe",
+        "name": "Tether",
+        "slug": "tether",
+        "tradingSymbol": "usdt"
+      }
+    ],
+    "_id": "5b3d0de22bc7da000f9ffdca",
+    "description": "After Bloomberg accused Kraken of manipulating Tether prices and wash trading, Kraken immediately refuted all allegations. Tether is a stable coin with each USDT token supposed to be backed by $1. Bloomberg journalists reported possible manipulation in Tether prices after reviewing trade history.",
+    "publishedAt": "2018-07-04T18:06:00.000Z",
+    "title": "Kraken Fires Back After Bloomberg Alleges it Manipulated Tether Prices",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d0de22bc7da000f9ffdca?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d0de22bc7da000f9ffdca?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://bitrates-files.s3.amazonaws.com/cache/posts/646/bloomberg-just-made-tether-an-enemy-x300_1px.jpeg?5b3d0dc67b6d2"
+  },
+  {
+    "hotness": 70870.6858396781,
+    "activityHotness": 0.11310282624064044,
+    "primaryCategory": "Blockchain",
+    "words": 629,
+    "similarArticles": [
+      {
+        "_id": "5b3ccc352bc7da000f9f8973",
+        "publishedAt": "2018-07-04T13:30:24.000Z",
+        "title": "Google Approach Cardano In Promising Move For Crypto Adoption - Crypto Daily™",
+        "url": "https://cryptocontrol.io/r/api/article/5b3ccc352bc7da000f9f8973?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dbc",
+        "name": "Cardano",
+        "slug": "cardano",
+        "tradingSymbol": "ada"
+      }
+    ],
+    "_id": "5b3d0dca2bc7da000f9ffda1",
+    "description": " IOHK’s, the name behind Cardano, chief executive Charles Hoskinson and Duncan Coutts, IOHK Director of Engineering walked into Google’s London office, everyone knew this is one of Google’s attempt to get a grasp of the new technology. And its selection of Cardano was not a surprise - may be a strong candidate to partner in the future.",
+    "publishedAt": "2018-07-04T18:01:53.000Z",
+    "title": "Google Looks Cardano’s Way for Crypto Adoption",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d0dca2bc7da000f9ffda1?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d0dca2bc7da000f9ffda1?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://static.coingape.com/wp-content/uploads/2018/07/04233945/cardano.jpg"
+  },
+  {
+    "hotness": 70870.96667342921,
+    "activityHotness": 0.12231435513142097,
+    "primaryCategory": "Government",
+    "words": 513,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3d0b732bc7da000f9ffc5b",
+    "description": "There are countries where Bitcoin is actually close to being legal. In others, the legality of cryptocurrency simply does not exist.",
+    "publishedAt": "2018-07-04T18:00:59.000Z",
+    "title": "7 Bitcoin-Friendly Countries That Love Cryptocurrency Investments - Coin Diary",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d0b732bc7da000f9ffc5b?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d0b732bc7da000f9ffc5b?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.coindiary.net/wp-content/uploads/2018/07/Bitcoin.jpg"
+  },
+  {
+    "hotness": 70867.11453801143,
+    "activityHotness": 0.11310282624064044,
+    "primaryCategory": "General",
+    "words": 377,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45daf",
+        "name": "Bitcoin Cash",
+        "slug": "bitcoin-cash",
+        "tradingSymbol": "bch"
+      },
+      {
+        "_id": "5a1aafdbda3d21115462ee35",
+        "name": "BitcoinZ",
+        "slug": "bitcoinz",
+        "tradingSymbol": "btcz"
+      }
+    ],
+    "_id": "5b3d0b472bc7da000f9ffc3a",
+    "description": "New forms of Bitcoin have popped up on a regular basis over the years. These so-called “hard forks” try to put a different spin on the Bitcoin concept and piggyback on the popular name. BitcoinZ claims to be “the true Bitcoin 2.0”, although it remains to be seen if?it will live up to those expectations. […]\n",
+    "publishedAt": "2018-07-04T18:00:31.000Z",
+    "title": "What Is BitcoinZ Cryptocurrency? | NullTX",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d0b472bc7da000f9ffc3a?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d0b472bc7da000f9ffc3a?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/07/Screenshot-2018-07-03-at-3.07.34-PM.png"
+  },
+  {
+    "hotness": 70867.09359447128,
+    "activityHotness": 0.12151113796169455,
+    "primaryCategory": "Mining",
+    "words": 326,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "5a1aafdbda3d21115462edee",
+        "name": "Bitcoin Gold",
+        "slug": "bitcoin-gold",
+        "tradingSymbol": "btg"
+      }
+    ],
+    "_id": "5b3d09ff2bc7da000f9ffbb0",
+    "description": "Bitcoin Gold changed its existing Equihash PoW algorithm to Equihash-BTG in a bid to stop ASIC miners and double-spend attacks.",
+    "publishedAt": "2018-07-04T17:49:57.000Z",
+    "title": "Bitcoin Gold (BTG) Implements New Mining Algorithm with Hard Fork - Coin Diary",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d09ff2bc7da000f9ffbb0?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d09ff2bc7da000f9ffbb0?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.coindiary.net/wp-content/uploads/2018/07/bgoldLaunch.original.jpg"
+  },
+  {
+    "hotness": 70867.08996302394,
+    "activityHotness": 0.12311117209633866,
+    "primaryCategory": "General",
+    "words": 424,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3d08fa2bc7da000f9ffb86",
+    "description": "Forget about a Lambo and get yourself a Mustang! An American custom car builder now accepts bitcoin and cryptocurrency payments.",
+    "publishedAt": "2018-07-04T17:48:04.000Z",
+    "title": "Get Yourself a Mustang, American Custom Car Builder Now Accepts Bitcoin - Bitcoin News",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d08fa2bc7da000f9ffb86?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d08fa2bc7da000f9ffb86?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2018/07/Ford-Mustang.jpg"
+  },
+  {
+    "hotness": 70869.2791400966,
+    "activityHotness": 0.1122217632724249,
+    "primaryCategory": "Exchanges",
+    "words": 606,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3d06982bc7da000f9ff591",
+    "description": "The traditional financial sector in the Philippines are at a loss due to the monstrous rise in value and usage of cryptocurrency and bitcoin",
+    "publishedAt": "2018-07-04T17:39:07.000Z",
+    "title": "Bitcoin Exchanges Topple Traditional Finance Platforms in the Philippines",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d06982bc7da000f9ff591?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d06982bc7da000f9ff591?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2018/07/Bitcoin-Exchanges-Topple-Traditional-Finance-Platforms-in-the-Philippines.png"
+  },
+  {
+    "hotness": 70867.03291137941,
+    "activityHotness": 0.11397619423751587,
+    "primaryCategory": "Analysis",
+    "words": 302,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45df4",
+        "name": "TRON",
+        "slug": "tron",
+        "tradingSymbol": "trx"
+      }
+    ],
+    "_id": "5b3d048f2bc7da000f9ff27a",
+    "description": "TRON Super representative : As this is the matter of course that everyone out there in digital maket always look for new feeds on which they an trade. TRON is one of them community, who just caught more eyes in shot period of time. TRON has recently announced about TRON Super representative on 26 June,2018. …",
+    "publishedAt": "2018-07-04T17:30:49.000Z",
+    "title": "SkyPeople became TRON Super representative. - coinsvarsity",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d048f2bc7da000f9ff27a?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70866.99744397965,
+    "activityHotness": 0.11133286853070033,
+    "primaryCategory": "Mining",
+    "words": 24,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3d197f2bc7da000fa013e0",
+    "description": "Iceland is looking past the faddishness of cryptocurrencies and toward other projects that need the same kind of infrastructure that Bitcoin miners rely on",
+    "publishedAt": "2018-07-04T17:19:00.000Z",
+    "title": "How extreme Bitcoin mining has sparked an unexpected revolution in Iceland",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d197f2bc7da000fa013e0?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d197f2bc7da000fa013e0?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://financialpostcom.files.wordpress.com/2018/07/iceland_bitcoin_mining.jpg"
+  },
+  {
+    "hotness": 70866.96973593028,
+    "activityHotness": 0.13293037471426006,
+    "primaryCategory": "Blockchain",
+    "words": 574,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cfefb2bc7da000f9fea17",
+    "description": "Bart Simpson, the much loved mischievous American boy, has hacked ethereum’s chart on this July the fourth to make an appearance. The sophisticated hack began at 2PM London time on...",
+    "publishedAt": "2018-07-04T17:01:15.000Z",
+    "title": "Bart Says Happy Independence Day America",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cfefb2bc7da000f9fea17?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cfefb2bc7da000f9fea17?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.trustnodes.com/wp-content/uploads/2018/07/ethereum-bart.png"
+  },
+  {
+    "hotness": 70871.38630402554,
+    "activityHotness": 4.630748469974796,
+    "primaryCategory": "ICO",
+    "words": 1154,
+    "similarArticles": [
+      {
+        "_id": "5b3a19b9104844000fd62639",
+        "publishedAt": "2018-07-02T12:24:55.000Z",
+        "title": "BTCC Revamps Crypto Exchange with Plan to Issue Own Tokens",
+        "url": "https://cryptocontrol.io/r/api/article/5b3a19b9104844000fd62639?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b3a187b104844000fd6229c",
+        "publishedAt": "2018-07-02T12:17:05.000Z",
+        "title": "Crypto Exchange BTCC Back to Business With New Plans ⋆ ZyCrypto",
+        "url": "https://cryptocontrol.io/r/api/article/5b3a187b104844000fd6229c?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b39da42104844000fd5a5f4",
+        "publishedAt": "2018-07-02T06:00:05.000Z",
+        "title": "BTCC Relaunches Exchange Business With Its Own Token Plan - CoinDesk",
+        "url": "https://cryptocontrol.io/r/api/article/5b39da42104844000fd5a5f4?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45daf",
+        "name": "Bitcoin Cash",
+        "slug": "bitcoin-cash",
+        "tradingSymbol": "bch"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45db0",
+        "name": "Litecoin",
+        "slug": "litecoin",
+        "tradingSymbol": "ltc"
+      },
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      }
+    ],
+    "_id": "5b3cf8802bc7da000f9fde7c",
+    "description": "BTCC relaunches exchange by offering three months of feeless trading and reward-points system that will be converted into native tokens in the future.",
+    "publishedAt": "2018-07-04T16:32:00.000Z",
+    "title": "Behind BTCC’s Revamp: Feeless Trades for Three Months, Native Token on the Horizon",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cf8802bc7da000f9fde7c?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cf8802bc7da000f9fde7c?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://images.cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mZTcwM2I4ODBjYWRlMDFlNjhjOGI5NDQ5ZWI1MmU0ZS5qcGc=.jpg"
+  },
+  {
+    "hotness": 70866.8480965646,
+    "activityHotness": 0.11397619423751587,
+    "primaryCategory": "Analysis",
+    "words": 444,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cf5022bc7da000f9fd7cd",
+    "description": "At press time, the father of cryptocurrencies is back up to the $6,600 mark it had reached just 48 hours ago. During yesterday afternoon, bitcoin had seemingly fallen back down to $6,500, and was trading for about $100 less than where it stood previously. However, as it?s still semi-vulnerable to volatility, the currency has spiked […]\n",
+    "publishedAt": "2018-07-04T16:24:17.000Z",
+    "title": "Bitcoin Price Watch: Currency Rising Again | NullTX",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cf5022bc7da000f9fd7cd?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cf5022bc7da000f9fd7cd?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/07/daily-chart-3.png"
+  },
+  {
+    "hotness": 70866.86326031025,
+    "activityHotness": 0.1378436435720245,
+    "primaryCategory": "Blockchain",
+    "words": 665,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      }
+    ],
+    "_id": "5b3d00b62bc7da000f9fee62",
+    "description": "Waves, a major custom tokens blockchain valued at more than $310 million, has evolved into the most efficient and low-cost platform for airdrops.",
+    "publishedAt": "2018-07-04T16:21:09.000Z",
+    "title": "Efficient and Low-Cost Blockchain of Waves is Optimized For Airdrops",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d00b62bc7da000f9fee62?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d00b62bc7da000f9fee62?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://s3.amazonaws.com/main-newsbtc-images/2018/07/04161939/shutterstock_523494106.jpg"
+  },
+  {
+    "hotness": 70866.80244058983,
+    "activityHotness": 0.10392207131532814,
+    "primaryCategory": "General",
+    "words": 483,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45e4c",
+        "name": "ZenCash",
+        "slug": "zencash",
+        "tradingSymbol": "zen"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45df4",
+        "name": "TRON",
+        "slug": "tron",
+        "tradingSymbol": "trx"
+      }
+    ],
+    "_id": "5b3cf3dc2bc7da000f9fd50d",
+    "description": "Nucleus Vision has strike a pilot deal with India’s largest consumer electronics retailer Croma which has over 100 stores all across the country.",
+    "publishedAt": "2018-07-04T16:11:28.000Z",
+    "title": "Nucleus Vision [NCASH] Partners Up with Indian Electronics Retail Giant Croma",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cf3dc2bc7da000f9fd50d?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cf3dc2bc7da000f9fd50d?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://static.coingape.com/wp-content/uploads/2018/07/04213854/nucleus-vision-croma.jpg"
+  },
+  {
+    "hotness": 70871.27685311073,
+    "activityHotness": 4.625464221837358,
+    "primaryCategory": "Mining",
+    "words": 336,
+    "similarArticles": [
+      {
+        "_id": "5b3cc3e62bc7da000f9f7cf6",
+        "publishedAt": "2018-07-04T12:20:58.000Z",
+        "title": "Bitcoin core developer Matt Corallo launches new bitcoin mining protocol ",
+        "url": "https://cryptocontrol.io/r/api/article/5b3cc3e62bc7da000f9f7cf6?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b3cc3412bc7da000f9f7b28",
+        "publishedAt": "2018-07-04T12:20:58.000Z",
+        "title": "‘Miners Are Miners Again’",
+        "url": "https://cryptocontrol.io/r/api/article/5b3cc3412bc7da000f9f7b28?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b3bb1d92bc7da000f9d91ed",
+        "publishedAt": "2018-07-03T17:00:58.000Z",
+        "title": "'Miners Are Miners Again': Bitcoin Core Dev Launches Alternative Mining Protocol - Bitcoinist.com",
+        "url": "https://cryptocontrol.io/r/api/article/5b3bb1d92bc7da000f9d91ed?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b3cb46a2bc7da000f9f5e16",
+        "publishedAt": "2018-07-04T11:45:45.000Z",
+        "title": "Bitcoin Developer Launched a Substitute For Controlled Mining Pools (+ VIDEO) - Coindoo - Crypto News and Reviews",
+        "url": "https://cryptocontrol.io/r/api/article/5b3cb46a2bc7da000f9f5e16?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cee2e2bc7da000f9fcb62",
+    "description": "Bitcoin Core developer: Bitcoin Core developer has recently launched alternative mining protocol which aims to increase the decentralization as it is becoming more common to be monopolized. Founder of Litecoin has reposted the news from Bitcoinist.com by appreciating the move from Matt Corallo a Bitcoin Developer. Mining protocol : Matt Corallo has recently told about …",
+    "publishedAt": "2018-07-04T15:54:30.000Z",
+    "title": "Bitcoin Core developer launches mining protocol - coinsvarsity",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cee2e2bc7da000f9fcb62?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cee2e2bc7da000f9fcb62?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.coinsvarsity.com/wp-content/uploads/2018/06/sharon-mccutcheon-534817-unsplash-1024x683.jpg"
+  },
+  {
+    "hotness": 70866.74543947754,
+    "activityHotness": 0.10099503308531682,
+    "primaryCategory": "Exchanges",
+    "words": 428,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "5a7b930b02ac032bc9978196",
+        "name": "Oyster",
+        "slug": "oyster",
+        "tradingSymbol": "prl"
+      }
+    ],
+    "_id": "5b3cfefb2bc7da000f9fea1b",
+    "description": "Republic, a retail investment platform has recently closed $12 million to finance the tokenization of its platform and introduce their own security token with Binance labs taking a leading role. Other supporting the financing round included Oyster ventures, Zhen fund, and FBG Capitals. \r\n",
+    "publishedAt": "2018-07-04T15:52:00.000Z",
+    "title": "Republic Raises $12M from Binance Labs to Tokenize Startup Investing",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cfefb2bc7da000f9fea1b?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cfefb2bc7da000f9fea1b?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://bitrates-files.s3.amazonaws.com/cache/posts/643/republic-closes-12-million-funding-binance-in-the-lead-x300_1px.jpeg?5b3cfe32069cf"
+  },
+  {
+    "hotness": 70866.75699028106,
+    "activityHotness": 0.12231435513142097,
+    "primaryCategory": "Exchanges",
+    "words": 418,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cedf82bc7da000f9fcab4",
+    "description": "The Israel Tax Authority has reportedly been able to convince local Tel Aviv based exchange, Bits of Gold, to report on big traders.",
+    "publishedAt": "2018-07-04T15:48:29.000Z",
+    "title": "Israel Tax Authority Convinces Local Exchange to Report Big Traders - Bitcoin News",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cedf82bc7da000f9fcab4?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cedf82bc7da000f9fcab4?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2018/07/tax-report.jpg"
+  },
+  {
+    "hotness": 70866.65100540465,
+    "activityHotness": 0.10392207131532814,
+    "primaryCategory": "Mining",
+    "words": 120,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45db1",
+        "name": "Dash",
+        "slug": "dash",
+        "tradingSymbol": "dash"
+      }
+    ],
+    "_id": "5b3ce5cc2bc7da000f9fbc14",
+    "description": "This is a video repost of an interview from our YouTube channel with Karen Hsu Head of Growth for BlockCypher answering the following questions about the recent AloGateway partnership with Dash. ⏱ Question TimeStamps: 🚩 00:23 What is AloGateway? 🚩 00:51 What is China UnionPay and why is it so significant? 🚩 01:32 Is AloGateway a B2B solution or is it …",
+    "publishedAt": "2018-07-04T15:16:57.000Z",
+    "title": "Video Interview: AloGateway Global Payment Processor Partners With Dash - Dash Force News",
+    "url": "https://cryptocontrol.io/r/api/article/5b3ce5cc2bc7da000f9fbc14?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3ce5cc2bc7da000f9fbc14?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.dashforcenews.com/wp-content/uploads/2018/07/alogateway-youtube.jpg"
+  },
+  {
+    "hotness": 70866.60364692939,
+    "activityHotness": 0.10198026272961798,
+    "primaryCategory": "Analysis",
+    "words": 448,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dbe",
+        "name": "Tether",
+        "slug": "tether",
+        "tradingSymbol": "usdt"
+      }
+    ],
+    "_id": "5b3ce3932bc7da000f9fb888",
+    "description": "Kraken has fought back with a stinging response to attempt to shut down the claims by Bloomberg regarding price manipulation.",
+    "publishedAt": "2018-07-04T15:00:36.000Z",
+    "title": "Kraken responds to Bloomberg&#039;s savage attack over price manipulation",
+    "url": "https://cryptocontrol.io/r/api/article/5b3ce3932bc7da000f9fb888?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3ce3932bc7da000f9fb888?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.coininsider.com/wp-content/uploads/2018/07/kraken-1200x630.jpg"
+  },
+  {
+    "hotness": 70866.61253657224,
+    "activityHotness": 0.11133286853070033,
+    "primaryCategory": "Exchanges",
+    "words": 457,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3ce2402bc7da000f9fb4fd",
+    "description": "BTCC has always been one of the biggest Bitcoin and cryptocurrency exchanges in the world. Over the past year, the company has seen a fair few setbacks. Most of those issues are now resolved, as the company will return to the exchange business and issue a native token. BTCC Plans a Big Comeback The cryptocurrency […]\n",
+    "publishedAt": "2018-07-04T15:00:26.000Z",
+    "title": "BTCC Confirms Its Crypto Trading Platform Will Relaunch Soon | NullTX",
+    "url": "https://cryptocontrol.io/r/api/article/5b3ce2402bc7da000f9fb4fd?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3ce2402bc7da000f9fb4fd?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/07/shutterstock_1106114612.jpg"
+  },
+  {
+    "hotness": 70866.61832125664,
+    "activityHotness": 0.11739533071234382,
+    "primaryCategory": "Analysis",
+    "words": 531,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3ce1492bc7da000f9fb241",
+    "description": "Welcome to Crypto Daily News, this news piece \"Why Bitcoin (BTC) Could Be Repeating 2013 And 2014 At The Same Time\" is breaking news from the Crypto sector.",
+    "publishedAt": "2018-07-04T15:00:20.000Z",
+    "title": "Why Bitcoin (BTC) Could Be Repeating 2013 And 2014 At The Same Time - Crypto Daily™",
+    "url": "https://cryptocontrol.io/r/api/article/5b3ce1492bc7da000f9fb241?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3ce1492bc7da000f9fb241?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://cryptodaily.co.uk/wp-content/uploads/2018/07/bitcoin-repeating-1.png"
+  },
+  {
+    "hotness": 70868.04582285532,
+    "activityHotness": 1.601980262729618,
+    "primaryCategory": "General",
+    "words": 472,
+    "similarArticles": [
+      {
+        "_id": "5b3c9da82bc7da000f9f3194",
+        "publishedAt": "2018-07-04T10:05:18.000Z",
+        "title": "Rogue App Wreaks Havoc –Transaction Costs Soar as the Ethereum Network Slows - Bitcoin News",
+        "url": "https://cryptocontrol.io/r/api/article/5b3c9da82bc7da000f9f3194?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dc3",
+        "name": "Gas",
+        "slug": "gas",
+        "tradingSymbol": "gas"
+      },
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      }
+    ],
+    "_id": "5b3cdda42bc7da000f9fab12",
+    "description": "?Gas prices have surged on the Ethereum network this week, going over 500 gwai at one point, before stabilizing to 56 gwai. Because of this, the average transaction has become $0.49, making it more expensive to transact with cryptos on Ethereum, even compared to its blockchains peers such as BTC or BCH. The culprit behind […]\n",
+    "publishedAt": "2018-07-04T14:39:47.000Z",
+    "title": "Transaction Fees Surge on the Ethereum Network Due To Rogue App - Coindoo - Crypto News and Reviews",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cdda42bc7da000f9fab12?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70866.54159197939,
+    "activityHotness": 0.10487901641694322,
+    "primaryCategory": "General",
+    "words": 469,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45e20",
+        "name": "DECENT",
+        "slug": "decent",
+        "tradingSymbol": "dct"
+      }
+    ],
+    "_id": "5b3cdda12bc7da000f9faae6",
+    "description": "It seems the time for bitcoin to be drugged through the mud is here again. The ever-growing self-opinion and predictions about the cryptocurr",
+    "publishedAt": "2018-07-04T14:37:13.000Z",
+    "title": "Do Not Be Deceived, Bitcoin will Never Hit Zero ⋆ ZyCrypto",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cdda12bc7da000f9faae6?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cdda12bc7da000f9faae6?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2018/07/Do-Not-Be-Deceived-Bitcoin-will-Never-Hit-Zero.png"
+  },
+  {
+    "hotness": 70866.51559137384,
+    "activityHotness": 0.10198026272961798,
+    "primaryCategory": "ICO",
+    "words": 47,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb5a047ab17a0b2ec00edf",
+        "name": "Ripple",
+        "tradingSymbol": "xrp",
+        "slug": "ripple"
+      }
+    ],
+    "_id": "5b3d19932bc7da000fa01412",
+    "description": "Court documents signed last week revealed that Ripple Labs Inc. and its CEO have been served with a third securities fraud lawsuit in as many months. In this latest suit, dated June 27, a private XRP investor alleges that Ripple Labs Inc. and its CEO Bradley …",
+    "publishedAt": "2018-07-04T14:28:54.000Z",
+    "title": "Ripple hit with third suit for securities law violation",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d19932bc7da000fa01412?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3d19932bc7da000fa01412?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F07%2FWitchcraft_at_Salem_Village.jpg&expires=17298714566&signature=48e8267ddc7cf576582656895a10f351"
+  },
+  {
+    "hotness": 70866.50440906707,
+    "activityHotness": 0.10769610411361284,
+    "primaryCategory": "Analysis",
+    "words": 648,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      }
+    ],
+    "_id": "5b3cdb452bc7da000f9fa701",
+    "description": "Recently Ethereum network got congested resulting in the shooting up of gas price to 100 Gwei. Apparently, the Chinese crypto exchange Fcoin that has been conducting a voting for coin listing has been the reason for this debacle. ",
+    "publishedAt": "2018-07-04T14:22:49.000Z",
+    "title": "This is the Actual Reason Behind Ethereum Gas Price Spike to 100 Gwei",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cdb452bc7da000f9fa701?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cdb452bc7da000f9fa701?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://static.coingape.com/wp-content/uploads/2018/07/04200058/Ethereum-Gas1.jpg"
+  },
+  {
+    "hotness": 70866.49324074075,
+    "activityHotness": 0.1,
+    "primaryCategory": "Mining",
+    "words": 42,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3d196b2bc7da000fa013af",
+    "description": "Russian authorities have sent a new extradition request to Greece for a Russian cybercrime suspect also sought on criminal charges by the U.S. and France. Alexander Vinnik, 38, a former bitcoin platform operator, was informed of the new Russian request by The…",
+    "publishedAt": "2018-07-04T14:21:34.000Z",
+    "title": "Russia makes new request to Greece for cybercrime suspect",
+    "url": "https://cryptocontrol.io/r/api/article/5b3d196b2bc7da000fa013af?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70866.45252366607,
+    "activityHotness": 0.11655144384775734,
+    "primaryCategory": "Mining",
+    "words": 221,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cdd972bc7da000f9faaa0",
+    "description": "A month after authorities in Quebec lifted a moratorium on allowing Bitcoin miners, local businesses have begun threatening to leave suspecting unfair After authorities in Quebec lifted a moratorium on Bitcoin miners, local businesses are threatening to leave suspecting unfair policies.",
+    "publishedAt": "2018-07-04T14:00:57.000Z",
+    "title": "'Intense' Bitmain Lobbying Forcing Smaller Bitcoin Miners Out of Quebec - Bitcoinist.com",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cdd972bc7da000f9faaa0?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cdd972bc7da000f9faaa0?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://bitcoinist.com/wp-content/uploads/2018/07/shutterstock_160761494.jpg"
+  },
+  {
+    "hotness": 70866.45630326879,
+    "activityHotness": 0.12070141693843262,
+    "primaryCategory": "Analysis",
+    "words": 387,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45df4",
+        "name": "TRON",
+        "slug": "tron",
+        "tradingSymbol": "trx"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45db0",
+        "name": "Litecoin",
+        "slug": "litecoin",
+        "tradingSymbol": "ltc"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59cb5a047ab17a0b2ec00edf",
+        "name": "Ripple",
+        "tradingSymbol": "xrp",
+        "slug": "ripple"
+      }
+    ],
+    "_id": "5b3cd3282bc7da000f9f9789",
+    "description": "Welcome to Crypto Daily News, this news piece \"Google Trends Doesn’t Actually Show An Increase In The...\" is breaking news from the Crypto sector.",
+    "publishedAt": "2018-07-04T14:00:49.000Z",
+    "title": "Google Trends Doesn’t Actually Show An Increase In The Popularity Of XRP Or TRX - Crypto Daily™",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cd3282bc7da000f9f9789?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cd3282bc7da000f9f9789?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://cryptodaily.co.uk/wp-content/uploads/2018/07/ripple-tron-book.jpg"
+  },
+  {
+    "hotness": 70866.43647100347,
+    "activityHotness": 0.10198026272961798,
+    "primaryCategory": "Government",
+    "words": 451,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cd3082bc7da000f9f96f5",
+    "description": "Switzerland is attempting to position itself as a hub for cryptocurrency activity. Surprisingly, it seems the country’s policymakers are intent on bridging the gap between cryptocurrency and traditional banking. Depending on how the current situation evolves, cryptocurrency firms may soon have full access to traditional banking services. Switzerland Embraces Cryptocurrency Multiple interesting cryptocurrency-related developments have […]\n",
+    "publishedAt": "2018-07-04T14:00:25.000Z",
+    "title": "Swiss Regulators Aim to Give Crypto Firms Better Access to Financial Services | NullTX",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cd3082bc7da000f9f96f5?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cd3082bc7da000f9f96f5?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/07/shutterstock_416577892.jpg"
+  },
+  {
+    "hotness": 70870.85842212148,
+    "activityHotness": 0.10861776962410524,
+    "primaryCategory": "Exchanges",
+    "words": 576,
+    "similarArticles": [
+      {
+        "_id": "5b3c92a62bc7da000f9f1be6",
+        "publishedAt": "2018-07-04T09:13:59.000Z",
+        "title": "Binance explains Syscoin incident, offers zero-fee trading and creates 'SAFU' fund",
+        "url": "https://cryptocontrol.io/r/api/article/5b3c92a62bc7da000f9f1be6?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45df2",
+        "name": "Syscoin",
+        "slug": "syscoin",
+        "tradingSymbol": "sys"
+      }
+    ],
+    "_id": "5b3cd3192bc7da000f9f974e",
+    "description": "Popular cryptocurrency exchange Binance has announced the creation of a fund developed for user safety called ?Secure Asset Fund for Users (SAFU)? after the recent trading irregularities that led to one Syscoin (SYS), worth about $0.26, to be purchased for 96 bitcoins. Binance announced in an update that the irregular trades the exchange identified came […]\n",
+    "publishedAt": "2018-07-04T13:56:36.000Z",
+    "title": "Binance Releases Secure Asset Fund for Users (SAFU) After Syscoin Attack - Coindoo - Crypto News and Reviews",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cd3192bc7da000f9f974e?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70866.4492860328,
+    "activityHotness": 0.14252677354043441,
+    "primaryCategory": "Blockchain",
+    "words": 1258,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "5a7b930702ac032bc9978165",
+        "name": "Zilliqa",
+        "slug": "zilliqa",
+        "tradingSymbol": "zil"
+      },
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cd0c52bc7da000f9f935f",
+    "description": "The holly grail of public blockchains is undoubtedly scalability, a subject that divided the bitcoin community and now three years on is still unsolved. Conceptually, how to address it has...",
+    "publishedAt": "2018-07-04T13:50:26.000Z",
+    "title": "Blockchain Scaling Race Heats Up as Zilliqa Launches Sharding Testnet",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cd0c52bc7da000f9f935f?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cd0c52bc7da000f9f935f?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.trustnodes.com/wp-content/uploads/2018/07/zilliqa.png"
+  },
+  {
+    "hotness": 70868.90857781272,
+    "activityHotness": 0.10487901641694322,
+    "primaryCategory": "Analysis",
+    "words": 1048,
+    "similarArticles": [
+      {
+        "_id": "5b3bd7672bc7da000f9dc822",
+        "publishedAt": "2018-07-03T18:52:37.000Z",
+        "title": "Nobody Wants to Use Crypto Tokens: SelfKey Found a Workaround - Blockchain News",
+        "url": "https://cryptocontrol.io/r/api/article/5b3bd7672bc7da000f9dc822?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b394da4104844000fd4a29e",
+        "publishedAt": "2018-07-01T21:42:00.000Z",
+        "title": "Mythbusting: Why Bitcoin Can Never Go to Zero",
+        "url": "https://cryptocontrol.io/r/api/article/5b394da4104844000fd4a29e?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b38e061104844000fd3c97a",
+        "publishedAt": "2018-07-01T14:00:57.000Z",
+        "title": "What Is MakerDAO? An Interview with Rune Christensen | NullTX",
+        "url": "https://cryptocontrol.io/r/api/article/5b38e061104844000fd3c97a?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b38a416104844000fd34e6a",
+        "publishedAt": "2018-07-01T08:45:17.000Z",
+        "title": "What Does Crypto Care If Zooko Is A Millionaire? - CoinDesk",
+        "url": "https://cryptocontrol.io/r/api/article/5b38a416104844000fd34e6a?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cce5f2bc7da000f9f8cb2",
+    "description": "2018 is revealing itself as the year for blockchain and cryptocurrency in the real-estate market. A massive adoption of these cryptos has been taking place as real-estate agencies adapt to the blockchain system. In the past 6 months, according to the CoinMarketCap price listing, total cryptocurrency market cap has reached 600 Billion USD, attracting investors […]\n",
+    "publishedAt": "2018-07-04T13:40:43.000Z",
+    "title": "Cryptocurrency and The Real-Estate Market - Coindoo - Crypto News and Reviews",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cce5f2bc7da000f9f8cb2?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70869.3872458883,
+    "activityHotness": 3.1165514438477575,
+    "primaryCategory": "ICO",
+    "words": 1000,
+    "similarArticles": [
+      {
+        "_id": "5b3c74702bc7da000f9ee014",
+        "publishedAt": "2018-07-03T02:48:29.000Z",
+        "title": "Blockchain voting trial in \"Crypto Valley\" a success",
+        "url": "https://cryptocontrol.io/r/api/article/5b3c74702bc7da000f9ee014?ref=5b3e4ece45c4f7000f1d77d5"
+      },
+      {
+        "_id": "5b3bb9ff2bc7da000f9d982d",
+        "publishedAt": "2018-07-03T17:59:00.000Z",
+        "title": "Swiss City of Zug Successfully Completes Blockchain-based e-Voting Trial",
+        "url": "https://cryptocontrol.io/r/api/article/5b3bb9ff2bc7da000f9d982d?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dc5",
+        "name": "EOS",
+        "slug": "eos",
+        "tradingSymbol": "eos"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3ccf802bc7da000f9f8fe4",
+    "description": "Some potential investors find the process of acquiring cryptocurrencies rather complicated, according to a new survey conducted among US residents. Despite that finding, and other obstacles, another study confirms the recently reported increase in the capital raised through coin offerings this year.",
+    "publishedAt": "2018-07-04T13:37:27.000Z",
+    "title": "The Daily: Complicated Crypto Purchasing Puts Off US Investors, Analysis Confirms - ICOs Spike - Bitcoin News",
+    "url": "https://cryptocontrol.io/r/api/article/5b3ccf802bc7da000f9f8fe4?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3ccf802bc7da000f9f8fe4?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2018/07/shutterstock_1096058486_1600.jpg"
+  },
+  {
+    "hotness": 70866.3521061442,
+    "activityHotness": 0.10099503308531682,
+    "primaryCategory": "Government",
+    "words": 597,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45dbc",
+        "name": "Cardano",
+        "slug": "cardano",
+        "tradingSymbol": "ada"
+      }
+    ],
+    "_id": "5b3ccc352bc7da000f9f8973",
+    "description": "Welcome to Crypto Daily News, this news piece \"Google Approach Cardano In Promising Move For Crypto Adoption\" is breaking news from the Crypto sector.",
+    "publishedAt": "2018-07-04T13:30:24.000Z",
+    "title": "Google Approach Cardano In Promising Move For Crypto Adoption - Crypto Daily™",
+    "url": "https://cryptocontrol.io/r/api/article/5b3ccc352bc7da000f9f8973?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3ccc352bc7da000f9f8973?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://cryptodaily.co.uk/wp-content/uploads/2018/07/google-cardano-person.jpg"
+  },
+  {
+    "hotness": 70867.86206422273,
+    "activityHotness": 1.6148420005118274,
+    "primaryCategory": "General",
+    "words": 360,
+    "similarArticles": [
+      {
+        "_id": "5b3a4511104844000fd68166",
+        "publishedAt": "2018-07-02T15:20:15.000Z",
+        "title": "Markets Update: Coinex Dominates Volume Rankings Amid Post-Bounce Consolidation",
+        "url": "https://cryptocontrol.io/r/api/article/5b3a4511104844000fd68166?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45f2b",
+        "name": "Altcoin",
+        "slug": "altcoin-alt",
+        "tradingSymbol": "alt"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45df2",
+        "name": "Syscoin",
+        "slug": "syscoin",
+        "tradingSymbol": "sys"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cce492bc7da000f9f8c80",
+    "description": "Crypto markets are more or less stable today, July 4, with Bitcoin holding above the $6,500 price point.",
+    "publishedAt": "2018-07-04T13:29:00.000Z",
+    "title": "Crypto Markets Holding Gains, With Bitcoin Above $6,500",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cce492bc7da000f9f8c80?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cce492bc7da000f9f8c80?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://images.cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MDEzNWVjMThkNjBkNTBhNjRlM2JiNjM0M2RkMmJkMS5qcGc=.jpg"
+  },
+  {
+    "hotness": 70866.35137916483,
+    "activityHotness": 0.11133286853070033,
+    "primaryCategory": "Government",
+    "words": 1014,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45db5",
+        "name": "Monero",
+        "slug": "monero",
+        "tradingSymbol": "xmr"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45db1",
+        "name": "Dash",
+        "slug": "dash",
+        "tradingSymbol": "dash"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45dbb",
+        "name": "Zcash",
+        "slug": "zcash",
+        "tradingSymbol": "zec"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45dd6",
+        "name": "PIVX",
+        "slug": "pivx",
+        "tradingSymbol": "pivx"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45ed7",
+        "name": "ZClassic",
+        "slug": "zclassic",
+        "tradingSymbol": "zcl"
+      }
+    ],
+    "_id": "5b3ccc042bc7da000f9f88ea",
+    "description": "Perhaps one of the biggest misapprehensions in regards to cryptocurrencies is the fact that they are anonymous and the transactions are undetectable. In fact, t",
+    "publishedAt": "2018-07-04T13:26:25.000Z",
+    "title": "Top 5 Best Cryptocurrencies For Anonymity in 2018",
+    "url": "https://cryptocontrol.io/r/api/article/5b3ccc042bc7da000f9f88ea?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3ccc042bc7da000f9f88ea?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://usethebitcoin.com/wp-content/uploads/2018/06/hannah-wei-84051-unsplash.jpg"
+  },
+  {
+    "hotness": 70866.28365032467,
+    "activityHotness": 0.10295588022415446,
+    "primaryCategory": "Mining",
+    "words": 844,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45db1",
+        "name": "Dash",
+        "slug": "dash",
+        "tradingSymbol": "dash"
+      },
+      {
+        "_id": "59d8e9a749f28d56105674bb",
+        "name": "Dashs",
+        "slug": "dashs",
+        "tradingSymbol": "dashs"
+      }
+    ],
+    "_id": "5b3cc71b2bc7da000f9f81d0",
+    "description": "The website CoinFairValue was created by @pablomp as a means of discovering and spreading knowledge of how cryptocurrencies gain value. Dash Force News talked with the creator to find out more about the project and his general thoughts on the cryptocurrency space. His project was motivated by theories of stock valuations that gain their fair …",
+    "publishedAt": "2018-07-04T13:05:03.000Z",
+    "title": "CoinFairValue Uses Economic Theory To Determine Fair Value of Cryptocurrencies, Dash Currently Ranks Third - Dash Force News",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cc71b2bc7da000f9f81d0?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cc71b2bc7da000f9f81d0?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.dashforcenews.com/wp-content/uploads/2018/07/coin-fair-value.jpg"
+  },
+  {
+    "hotness": 70867.78418457198,
+    "activityHotness": 1.6048790164169433,
+    "primaryCategory": "General",
+    "words": 381,
+    "similarArticles": [
+      {
+        "_id": "5b3c0a752bc7da000f9e1da2",
+        "publishedAt": "2018-07-03T23:00:35.000Z",
+        "title": "Classic Cars for Cryptocurrency - Mustang Madness - Bitcoinist.com",
+        "url": "https://cryptocontrol.io/r/api/article/5b3c0a752bc7da000f9e1da2?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45f2b",
+        "name": "Altcoin",
+        "slug": "altcoin-alt",
+        "tradingSymbol": "alt"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cc72a2bc7da000f9f8226",
+    "description": "When it comes to crypto investments, the opportunities are endless. Still, those passionate about old toys have been neglected. Men, get ready because Ford Mustang reconstructor Classic Recreation is accepting cryptocurrency as payments. Classic Recreations, based in Oklahoma, says it’s the first car rebuilder to accept crypto assets as payments.? “Oh. I?ve heard about this […]\n",
+    "publishedAt": "2018-07-04T13:04:33.000Z",
+    "title": "Buy Vintage Ford Mustangs With Bitcoin (BTC) and Altcoins - Coindoo - Crypto News and Reviews",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cc72a2bc7da000f9f8226?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70866.27593684485,
+    "activityHotness": 0.10769610411361284,
+    "primaryCategory": "ICO",
+    "words": 514,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "5a1aafdbda3d21115462eead",
+        "name": "ERC20",
+        "slug": "erc20",
+        "tradingSymbol": "erc20"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45dbe",
+        "name": "Tether",
+        "slug": "tether",
+        "tradingSymbol": "usdt"
+      }
+    ],
+    "_id": "5b3cc7212bc7da000f9f81f4",
+    "description": "Here, we will be looking at three of the prominent coins which have emerged from a leading cryptocurrency exchange. #binancecoin #huobitoken",
+    "publishedAt": "2018-07-04T13:00:34.000Z",
+    "title": "Three most notable exchange-driven cryptocurrency tokens",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cc7212bc7da000f9f81f4?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cc7212bc7da000f9f81f4?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.coininsider.com/wp-content/uploads/2018/05/exchange-1200x630.jpg"
+  },
+  {
+    "hotness": 70866.21036328764,
+    "activityHotness": 0.10295588022415446,
+    "primaryCategory": "ICO",
+    "words": 391,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45df4",
+        "name": "TRON",
+        "slug": "tron",
+        "tradingSymbol": "trx"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45dc5",
+        "name": "EOS",
+        "slug": "eos",
+        "tradingSymbol": "eos"
+      },
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      }
+    ],
+    "_id": "5b3cc0512bc7da000f9f75df",
+    "description": "Just after a month and few days after the Tron platform launched its main net, exchanges are still upgrading their servers to support the new",
+    "publishedAt": "2018-07-04T12:38:40.000Z",
+    "title": "OKEx Upgrades To Support New TRON (TRX) Tokens ⋆ ZyCrypto",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cc0512bc7da000f9f75df?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cc0512bc7da000f9f75df?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2018/07/OKEx.png"
+  },
+  {
+    "hotness": 70867.68657361512,
+    "activityHotness": 1.612221763272425,
+    "primaryCategory": "General",
+    "words": 456,
+    "similarArticles": [
+      {
+        "_id": "5b3c81062bc7da000f9ef9f1",
+        "publishedAt": "2018-07-04T08:00:07.000Z",
+        "title": "What is Coinbase Custody, and why should you care?",
+        "url": "https://cryptocontrol.io/r/api/article/5b3c81062bc7da000f9ef9f1?ref=5b3e4ece45c4f7000f1d77d5"
+      }
+    ],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45db0",
+        "name": "Litecoin",
+        "slug": "litecoin",
+        "tradingSymbol": "ltc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45db6",
+        "name": "Ethereum Classic",
+        "slug": "ethereum-classic",
+        "tradingSymbol": "etc"
+      }
+    ],
+    "_id": "5b3cbe162bc7da000f9f727c",
+    "description": "Coinbase has enjoyed a fruitful in term of product developments, releasing announcement after announcement, including their venture capital fund, index fund, and new listings. Its most recent endeavor of the company is their Coinbase Custody ? a new platform aimed at providing secure storage of digital items for institutional investors. Coinbase Custody service was created […]\n",
+    "publishedAt": "2018-07-04T12:26:46.000Z",
+    "title": "The Launch of Coinbase Custody - Coindoo - Crypto News and Reviews",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cbe162bc7da000f9f727c?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70866.168233658,
+    "activityHotness": 0.10295588022415446,
+    "primaryCategory": "Analysis",
+    "words": 487,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59d21e9b83a0523906a45db3",
+        "name": "NEO",
+        "slug": "neo",
+        "tradingSymbol": "neo"
+      },
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cbcc12bc7da000f9f6f07",
+    "description": "Cryptocurrency price momentum can always change in the blink of an eye. Although some of the top markets are still in the red, the NEO price is rising fairly quickly. Thanks to solid gains over the past 24 hours, the NEO price is well on track to hit $40 again later today. A positive development […]\n",
+    "publishedAt": "2018-07-04T12:23:30.000Z",
+    "title": "NEO Price: Solid Uptrend Drives Value to Nearly $40 | NullTX",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cbcc12bc7da000f9f6f07?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cbcc12bc7da000f9f6f07?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://nulltx.com/wp-content/uploads/2018/07/shutterstock_1024357978.jpg"
+  },
+  {
+    "hotness": 70866.1610583723,
+    "activityHotness": 0.10582689081239759,
+    "primaryCategory": "Exchanges",
+    "words": 705,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45db3",
+        "name": "NEO",
+        "slug": "neo",
+        "tradingSymbol": "neo"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45dd9",
+        "name": "Siacoin",
+        "slug": "siacoin",
+        "tradingSymbol": "sc"
+      },
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      }
+    ],
+    "_id": "5b3cbbb72bc7da000f9f6c32",
+    "description": "Prediction Coins is a platform for assessing inversions that combines the latest technology from Machine Learning with classic indicators and the latest news.",
+    "publishedAt": "2018-07-04T12:19:53.000Z",
+    "title": "PredictionCoins - Welcome to the New Era of Trading - Coin Diary",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cbbb72bc7da000f9f6c32?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cbbb72bc7da000f9f6c32?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://www.coindiary.net/wp-content/uploads/2018/07/photo_2018-07-04_14-15-16.jpg"
+  },
+  {
+    "hotness": 70866.13182836643,
+    "activityHotness": 0.10099503308531682,
+    "primaryCategory": "General",
+    "words": 856,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cbba72bc7da000f9f6c12",
+    "description": "By now, almost everyone knows or has at least heard about Bitcoin and cryptocurrencies. Nowadays, Bitcoin and other altcoins have a plethora of uses. For instance, you can use Bitcoin to buy everything from presents, furniture, music, concert tickets, food, etc. You can also pay for flights, book hotel rooms, pay for your university education, […]\n",
+    "publishedAt": "2018-07-04T12:11:06.000Z",
+    "title": "How to Place Sports Bets With Bitcoin - Coindoo - Crypto News and Reviews",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cbba72bc7da000f9f6c12?ref=5b3e4ece45c4f7000f1d77d5"
+  },
+  {
+    "hotness": 70866.1021061442,
+    "activityHotness": 0.10099503308531682,
+    "primaryCategory": "Exchanges",
+    "words": 469,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59f9b0836b0a63aebc7c",
+        "name": "Ethereum",
+        "tradingSymbol": "eth",
+        "slug": "ethereum"
+      }
+    ],
+    "_id": "5b3cc1732bc7da000f9f78a7",
+    "description": "When demand for Ethereum rises, so do the gas prices — but what is causing them to rise in the middle of a bear market?",
+    "publishedAt": "2018-07-04T12:00:24.000Z",
+    "title": "Is a New Exchange to Blame for Ethereum's Network Congestion? - Bitcoinist.com",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cc1732bc7da000f9f78a7?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cc1732bc7da000f9f78a7?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://bitcoinist.com/wp-content/uploads/2018/07/shutterstock_699673723.jpg"
+  },
+  {
+    "hotness": 70866.08543600154,
+    "activityHotness": 0.11043600153242428,
+    "primaryCategory": "Government",
+    "words": 1075,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      }
+    ],
+    "_id": "5b3cb8002bc7da000f9f64e9",
+    "description": "After the historical debt deal, does Greece still need crypto?",
+    "publishedAt": "2018-07-04T11:51:00.000Z",
+    "title": "Will Cryptocurrencies Preserve Their Popularity in Greece? Expert Take",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cb8002bc7da000f9f64e9?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cb8002bc7da000f9f64e9?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://images.cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNzFjZjY2OGIyYjc4YThkNDM0ODdkYmNiYzBhYmU2YS5qcGc=.jpg"
+  },
+  {
+    "hotness": 70866.08794385236,
+    "activityHotness": 0.11484200051182732,
+    "primaryCategory": "General",
+    "words": 782,
+    "similarArticles": [],
+    "coins": [
+      {
+        "_id": "59cb59e81c073f09e76f614b",
+        "name": "Bitcoin",
+        "slug": "bitcoin",
+        "tradingSymbol": "btc"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45f2b",
+        "name": "Altcoin",
+        "slug": "altcoin-alt",
+        "tradingSymbol": "alt"
+      },
+      {
+        "_id": "59d21e9b83a0523906a45df2",
+        "name": "Syscoin",
+        "slug": "syscoin",
+        "tradingSymbol": "sys"
+      }
+    ],
+    "_id": "5b3cb5b72bc7da000f9f6189",
+    "description": "Syscoin has been hit by an unusual hack that has manipulated the coin’s total supply. The attackers then sent the fraudulently generated coins to Binance and sold them, pushing the price of 1 SYS to as high as 96 BTC. The BTC they received was then withdrawn.",
+    "publishedAt": "2018-07-04T11:50:19.000Z",
+    "title": "Syscoin Hack Disrupts Binance Prompting Temporary Shutdown - Bitcoin News",
+    "url": "https://cryptocontrol.io/r/api/article/5b3cb5b72bc7da000f9f6189?ref=5b3e4ece45c4f7000f1d77d5",
+    "thumbnail": "https://cryptocontrol.io/r/thumbnail/5b3cb5b72bc7da000f9f6189?ref=5b3e4ece45c4f7000f1d77d5",
+    "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2018/07/syscoin-binance.jpg"
+  }
+]

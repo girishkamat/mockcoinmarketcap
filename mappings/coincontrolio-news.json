@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/v1/public/news?key=addbeee4c2bc829e3659db04f27c257d"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "coincontrolio-news.json",
+    "headers": {
+      "Content-Type": "application/json",
+      "access-control-allow-origin": "*"
+    }
+  }
+}
