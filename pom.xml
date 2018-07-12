@@ -37,6 +37,7 @@
                <includes>
                     <include>__files</include>
                     <include>mappings</include>
+                    <include>target/mockcoinmarketcap-1.0.0.jar</include>
                </includes>
                <processTypes>
                   <web>java -cp target/classes:target/dependency/* com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --port $PORT --verbose --local-response-templating --root-dir .</web>
